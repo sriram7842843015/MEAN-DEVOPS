@@ -90,6 +90,6 @@ Pipeline Steps
 -Restart containers using Docker Compose
 
 Application can be accessed using ec2 public-ip URL:
-http://http://51.21.248.19
+accessed using dynamic url name
+http://{urlname}
 
-note:
