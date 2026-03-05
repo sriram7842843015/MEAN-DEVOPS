@@ -71,7 +71,6 @@ server {
 
 Entire application accessible via Port 80
 
-
 Workflow Location for github actions
  .github/workflows/deploy.yml
 
